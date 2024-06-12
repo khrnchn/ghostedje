@@ -1,0 +1,17 @@
+{
+  "hasSrc": false,
+  "packages": [
+    "drizzle",
+    "lucia"
+  ],
+  "preferredPackageManager": "pnpm",
+  "t3": false,
+  "alias": "@",
+  "analytics": true,
+  "rootPath": "",
+  "componentLib": null,
+  "driver": "sqlite",
+  "provider": "better-sqlite3",
+  "orm": "drizzle",
+  "auth": "lucia"
+}
